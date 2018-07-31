@@ -33,7 +33,7 @@ var Calculadora = {
     if (x=="1" || x=="2" || x=="3" || x=="0" || x=="igual" || x=="punto" ) {
       elemento.style.padding = "3px";
     } else if(x=="mas") {
-      elemento.style.padding = "1.5px";
+      elemento.style.padding = "1.6px";
     } else {
       elemento.style.padding = "2.5px";
     }
